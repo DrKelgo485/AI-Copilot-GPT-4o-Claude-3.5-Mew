@@ -1,2 +1,2 @@
 # AI-Copilot-GPT-4o-Claude-3.5-Mew
-AI Copilot based by GPT-4. and it answers very complex questions. Writes emails, reads articles, searches smartly. Usable everywhere.
+AI Copilot powered by GPT-4-Mew is an advanced virtual assistant designed to enhance productivity and streamline workflows across various applications. Leveraging the capabilities of GPT-4, it can understand and generate human-like text, making it adept at assisting with tasks such as drafting emails, creating content, brainstorming ideas, and even coding.
